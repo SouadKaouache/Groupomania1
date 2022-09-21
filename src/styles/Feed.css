@@ -1,0 +1,11 @@
+.feed {
+    width: 100%;
+}
+
+.feed-list {
+    list-style-type: none;
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

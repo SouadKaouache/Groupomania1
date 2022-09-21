@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-Projet créé dans le cadre du P7 de la formation développeur web d'OpenClassrooms
+Projet créé dans le cadre du P7 de la formation développeur web d'OpenClassrooms.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
